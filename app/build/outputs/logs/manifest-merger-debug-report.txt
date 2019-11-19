@@ -1,206 +1,218 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-54:12
-	xmlns:android
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-54:12
+MERGED from [com.android.support:design:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/3097a4bffe738dcbe66b3ce0d2c1bba1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/044191247dfd1d2801d3ba8de520d572/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/d3f404d65159704a886d53d2aebfc98c/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/0e8a139aa973844653b4a4e67e381247/AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/05d9f9bebf09fa9f3615f6c092f86cef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/8f4b5215d23abd29ec4a0757b7b67f03/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/62039308a78b0676d61ae3ecd76bed2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/df8bdd64db4852c436e64e8b39f43e44/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/f0f791298fd86369e4f79767e53610c0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/eecc9f6722857a57ac321cd02b5be62e/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/c70a8887dab537f3ef56be3c8e1b6978/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-54:12
 	package
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:3:5-46
-		INJECTED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-54:12
+		INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-54:12
+		INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:4:5-78
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:4:5-78
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:4:22-76
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:4:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:5:5-80
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:5:5-80
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:5:22-78
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:5:22-78
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:6:5-66
-MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:21:5-66
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/df8bdd64db4852c436e64e8b39f43e44/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/df8bdd64db4852c436e64e8b39f43e44/AndroidManifest.xml:21:5-66
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:7:5-78
-MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:20:5-78
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:7:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/df8bdd64db4852c436e64e8b39f43e44/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/df8bdd64db4852c436e64e8b39f43e44/AndroidManifest.xml:20:5-78
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:7:22-76
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:7:22-76
 uses-permission#android.permission.SEND_SMS
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:8:5-66
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:8:5-66
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:8:22-64
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:8:22-64
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:9:5-65
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:9:5-65
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:9:22-63
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:9:22-63
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:10:5-81
-MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:22:5-80
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:10:5-81
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/df8bdd64db4852c436e64e8b39f43e44/AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/df8bdd64db4852c436e64e8b39f43e44/AndroidManifest.xml:22:5-80
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:10:22-78
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:10:22-78
 uses-permission#android.permission.READ_CONTACTS
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:11:5-72
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:11:5-72
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:11:22-69
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:11:22-69
 uses-feature#android.hardware.sensor.accelerometer
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:12:5-98
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:12:5-98
 	android:required
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:12:72-95
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:12:72-95
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:12:19-71
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:12:19-71
 application
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:13:5-51:19
-MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-location:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:28:5-20
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:13:5-51:19
+MERGED from [com.android.support:design:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/3097a4bffe738dcbe66b3ce0d2c1bba1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/3097a4bffe738dcbe66b3ce0d2c1bba1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/044191247dfd1d2801d3ba8de520d572/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/044191247dfd1d2801d3ba8de520d572/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/d3f404d65159704a886d53d2aebfc98c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/d3f404d65159704a886d53d2aebfc98c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/0e8a139aa973844653b4a4e67e381247/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/0e8a139aa973844653b4a4e67e381247/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/05d9f9bebf09fa9f3615f6c092f86cef/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/05d9f9bebf09fa9f3615f6c092f86cef/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/8f4b5215d23abd29ec4a0757b7b67f03/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/8f4b5215d23abd29ec4a0757b7b67f03/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/df8bdd64db4852c436e64e8b39f43e44/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/df8bdd64db4852c436e64e8b39f43e44/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/eecc9f6722857a57ac321cd02b5be62e/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/eecc9f6722857a57ac321cd02b5be62e/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/c70a8887dab537f3ef56be3c8e1b6978/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/c70a8887dab537f3ef56be3c8e1b6978/AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:16:9-37
-	android:allowBackup
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:16:9-37
 	android:icon
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:15:9-43
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:14:9-35
 	android:theme
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:18:9-40
 activity#com.example.anask.myapplication.MainActivity
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:19:9-28:20
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:19:9-28:20
 	android:label
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:21:13-41
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:21:13-41
 	android:theme
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:22:13-56
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:20:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:23:13-27:29
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:26:27-74
 activity#com.example.anask.myapplication.CheckCertainty
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:29:9-36:20
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:29:9-36:20
 	android:label
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:30:13-35
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:30:13-35
 	android:theme
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:31:13-61
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:31:13-61
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:29:19-49
-intent-filter#android.intent.category.DEFAULT+com.example.anask.myapplication.CheckCertainty
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:32:13-35:29
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:29:19-49
+intent-filter#action:name:com.example.anask.myapplication.CheckCertainty+category:name:android.intent.category.DEFAULT
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:32:13-35:29
 action#com.example.anask.myapplication.CheckCertainty
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:33:17-89
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:33:17-89
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:33:25-86
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:33:25-86
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:34:17-76
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:34:17-76
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:34:27-73
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:34:27-73
 activity#com.example.anask.myapplication.About
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:37:9-44:20
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:37:9-44:20
 	android:label
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:38:13-42
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:38:13-42
 	android:theme
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:39:13-56
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:39:13-56
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:37:19-40
-intent-filter#android.intent.category.DEFAULT+com.example.anask.myapplication.About
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:40:13-43:29
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:37:19-40
+intent-filter#action:name:com.example.anask.myapplication.About+category:name:android.intent.category.DEFAULT
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:40:13-43:29
 action#com.example.anask.myapplication.About
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:41:17-80
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:41:17-80
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:41:25-77
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:41:25-77
 service#com.example.anask.myapplication.ShakeService
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:45:9-102
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:45:9-102
 	android:enabled
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:45:18-40
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:45:18-40
 	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:45:41-100
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:45:41-100
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:48:9-50:69
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
-	android:name
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:49:13-58
+ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:48:9-50:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/eecc9f6722857a57ac321cd02b5be62e/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/eecc9f6722857a57ac321cd02b5be62e/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:50:13-66
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:50:13-66
+	android:name
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:49:13-58
 uses-sdk
-INJECTED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-location:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:27:5-42
-MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-	android:targetSdkVersion
-		INJECTED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
+INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/3097a4bffe738dcbe66b3ce0d2c1bba1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/3097a4bffe738dcbe66b3ce0d2c1bba1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/044191247dfd1d2801d3ba8de520d572/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/044191247dfd1d2801d3ba8de520d572/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/d3f404d65159704a886d53d2aebfc98c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/d3f404d65159704a886d53d2aebfc98c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/0e8a139aa973844653b4a4e67e381247/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/0e8a139aa973844653b4a4e67e381247/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/05d9f9bebf09fa9f3615f6c092f86cef/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/05d9f9bebf09fa9f3615f6c092f86cef/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/8f4b5215d23abd29ec4a0757b7b67f03/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/8f4b5215d23abd29ec4a0757b7b67f03/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/62039308a78b0676d61ae3ecd76bed2a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/62039308a78b0676d61ae3ecd76bed2a/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/df8bdd64db4852c436e64e8b39f43e44/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/df8bdd64db4852c436e64e8b39f43e44/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/f0f791298fd86369e4f79767e53610c0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/f0f791298fd86369e4f79767e53610c0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/eecc9f6722857a57ac321cd02b5be62e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/eecc9f6722857a57ac321cd02b5be62e/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/c70a8887dab537f3ef56be3c8e1b6978/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/c70a8887dab537f3ef56be3c8e1b6978/AndroidManifest.xml:20:5-43
+INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
+INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.2.1] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.2.1] /Users/waheed/.gradle/caches/transforms-2/files-2.1/044191247dfd1d2801d3ba8de520d572/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
+		ADDED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:23:5-25:33
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:25:8-31
+ADDED from [com.google.android.gms:play-services-maps:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/df8bdd64db4852c436e64e8b39f43e44/AndroidManifest.xml:23:5-25:33
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\anask\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:24:8-40
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\Users\anask\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-54:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/df8bdd64db4852c436e64e8b39f43e44/AndroidManifest.xml:24:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] /Users/waheed/.gradle/caches/transforms-2/files-2.1/df8bdd64db4852c436e64e8b39f43e44/AndroidManifest.xml:25:8-31
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/waheed/Documents/Waheed/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-54:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
